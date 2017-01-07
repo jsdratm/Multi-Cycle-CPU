@@ -1,0 +1,97 @@
+NDB006
+The number of symbol table entries is: 1
+The length of the symbol table is: 13
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+
+The number of name info structs is : 85
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IGdW	!	:23	"%
+#	IGdW	!	:24	"&
+$	IGdW	!	:25	"'
+%	IGdW	!	:26	"(
+&	IGdW	!	:27	")
+'	IGdW	!	:28	"*
+(	IGdW	!	:29	"+
+)	IGdW	!	:30	",
+*	IGdW	!	:31	"-
++	IGdW	!	:32	".
+,	IGdW	!	:33	"/
+-	IGdW	!	:34	"0
+.	IGdW	!	:35	"1
+/	IGdW	!	:36	"2
+0	IGdW	!	:37	"3
+1	IGdW	!	:38	"4
+2	IGdW	!	:39	"5
+3	IGdW	!	:40	"6
+4	IGdW	!	:41	"7
+5	IGdW	!	:42	"8
+6	IGdW	!	:43	"9
+7	IGdW	!	:44	":
+8	IGdW	!	:45	";
+9	IGdW	!	:46	"<
+:	IGdW	!	:47	"=
+;	IGdW	!	:48	">
+<	IGdW	!	:49	"?
+=	IGdW	!	:50	"@
+>	IGdW	!	:51	"A
+?	IGdW	!	:52	"B
+@	IGdW	!	:53	"C
+A	IGdW	!	:54	"D
+B	IGdW	!	:55	"E
+C	IGdW	!	:56	"F
+D	IGdW	!	:57	"G
+E	IGdW	!	:58	"H
+F	IGdW	!	:59	"I
+G	IGdW	!	:60	"J
+H	IGdW	!	:61	"K
+I	IGdW	!	:62	"L
+J	IGdW	!	:63	"M
+K	IGdW	!	:64	"N
+L	IGdW	!	:65	"O
+M	IGdW	!	:66	"P
+N	IGdW	!	:67	"Q
+O	IGdW	!	:68	"R
+P	IGdW	!	:69	"S
+Q	IGdW	!	:70	"T
+R	IGdW	!	:71	"U
+S	IGdW	!	:72	"V
+T	IGdW	!	:73	"W
+U	IGdW	!	:74	"X
+V	IGdW	!	:75	"Y
+W	IGdW	!	:76	"Z
+X	IGdW	!	:77	"[
+Y	IGdW	!	:78	"\
+Z	IGdW	!	:79	"]
+[	IGdW	!	:80	"^
+\	IGdW	!	:81	"_
+]	IGdW	!	:82	"`
+^	IGdW	!	:83	"a
+_	IGdW	!	:84	"b
+`	IGdW	!	:85	"c
+a	"<R?b	!	6	14	a0	!	a0	p
+b	"<R?b	!	6	14	a1	!	a1	o
+c	"<R?b	!	6	14	a2	!	a2	n
+d	"<R?b	!	6	14	a3	!	a3	m
+e	"<R?b	!	6	14	b0	!	b0	t
+f	"<R?b	!	6	14	b1	!	b1	s
+g	"<R?b	!	6	14	b2	!	b2	r
+h	"<R?b	!	6	14	b3	!	b3	q
+i	"<R?b	!	6	14	c0	!	c0	x
+j	"<R?b	!	6	14	c1	!	c1	w
+k	"<R?b	!	6	14	c2	!	c2	v
+l	"<R?b	!	6	14	c3	!	c3	u
+m	"<R?b	!	6	14	d0	!	d0	|
+n	"<R?b	!	6	14	d1	!	d1	{
+o	"<R?b	!	6	14	d2	!	d2	z
+p	"<R?b	!	6	14	d3	!	d3	y
+q	"<R?c	!	8	17	outdata0	!	outdata0	"$
+r	"<R?c	!	8	17	outdata1	!	outdata1	"#
+s	"<R?c	!	8	17	outdata2	!	outdata2	""
+t	"<R?c	!	8	17	outdata3	!	outdata3	"!
+u	"<R?b	!	7	17	s0	!	s0	~
+v	"<R?b	!	7	17	s1	!	s1	}

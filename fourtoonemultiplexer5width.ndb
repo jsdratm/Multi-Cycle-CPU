@@ -1,0 +1,114 @@
+NDB006
+The number of symbol table entries is: 1
+The length of the symbol table is: 13
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+
+The number of name info structs is : 102
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IGdW	!	:100	"r
+#	IGdW	!	:101	"s
+$	IGdW	!	:102	"t
+%	IGdW	!	:28	"*
+&	IGdW	!	:29	"+
+'	IGdW	!	:30	",
+(	IGdW	!	:31	"-
+)	IGdW	!	:32	".
+*	IGdW	!	:33	"/
++	IGdW	!	:34	"0
+,	IGdW	!	:35	"1
+-	IGdW	!	:36	"2
+.	IGdW	!	:37	"3
+/	IGdW	!	:38	"4
+0	IGdW	!	:39	"5
+1	IGdW	!	:40	"6
+2	IGdW	!	:41	"7
+3	IGdW	!	:42	"8
+4	IGdW	!	:43	"9
+5	IGdW	!	:44	":
+6	IGdW	!	:45	";
+7	IGdW	!	:46	"<
+8	IGdW	!	:47	"=
+9	IGdW	!	:48	">
+:	IGdW	!	:49	"?
+;	IGdW	!	:50	"@
+<	IGdW	!	:51	"A
+=	IGdW	!	:52	"B
+>	IGdW	!	:53	"C
+?	IGdW	!	:54	"D
+@	IGdW	!	:55	"E
+A	IGdW	!	:56	"F
+B	IGdW	!	:57	"G
+C	IGdW	!	:58	"H
+D	IGdW	!	:59	"I
+E	IGdW	!	:60	"J
+F	IGdW	!	:61	"K
+G	IGdW	!	:62	"L
+H	IGdW	!	:63	"M
+I	IGdW	!	:64	"N
+J	IGdW	!	:65	"O
+K	IGdW	!	:66	"P
+L	IGdW	!	:67	"Q
+M	IGdW	!	:68	"R
+N	IGdW	!	:69	"S
+O	IGdW	!	:70	"T
+P	IGdW	!	:71	"U
+Q	IGdW	!	:72	"V
+R	IGdW	!	:73	"W
+S	IGdW	!	:74	"X
+T	IGdW	!	:75	"Y
+U	IGdW	!	:76	"Z
+V	IGdW	!	:77	"[
+W	IGdW	!	:78	"\
+X	IGdW	!	:79	"]
+Y	IGdW	!	:80	"^
+Z	IGdW	!	:81	"_
+[	IGdW	!	:82	"`
+\	IGdW	!	:83	"a
+]	IGdW	!	:84	"b
+^	IGdW	!	:85	"c
+_	IGdW	!	:86	"d
+`	IGdW	!	:87	"e
+a	IGdW	!	:88	"f
+b	IGdW	!	:89	"g
+c	IGdW	!	:90	"h
+d	IGdW	!	:91	"i
+e	IGdW	!	:92	"j
+f	IGdW	!	:93	"k
+g	IGdW	!	:94	"l
+h	IGdW	!	:95	"m
+i	IGdW	!	:96	"n
+j	IGdW	!	:97	"o
+k	IGdW	!	:98	"p
+l	IGdW	!	:99	"q
+m	"<R?b	!	6	14	a0	!	a0	q
+n	"<R?b	!	6	14	a1	!	a1	p
+o	"<R?b	!	6	14	a2	!	a2	o
+p	"<R?b	!	6	14	a3	!	a3	n
+q	"<R?b	!	6	14	a4	!	a4	m
+r	"<R?b	!	6	14	b0	!	b0	v
+s	"<R?b	!	6	14	b1	!	b1	u
+t	"<R?b	!	6	14	b2	!	b2	t
+u	"<R?b	!	6	14	b3	!	b3	s
+v	"<R?b	!	6	14	b4	!	b4	r
+w	"<R?b	!	6	14	c0	!	c0	{
+x	"<R?b	!	6	14	c1	!	c1	z
+y	"<R?b	!	6	14	c2	!	c2	y
+z	"<R?b	!	6	14	c3	!	c3	x
+{	"<R?b	!	6	14	c4	!	c4	w
+|	"<R?b	!	6	14	d0	!	d0	""
+}	"<R?b	!	6	14	d1	!	d1	"!
+~	"<R?b	!	6	14	d2	!	d2	~
+"!	"<R?b	!	6	14	d3	!	d3	}
+""	"<R?b	!	6	14	d4	!	d4	|
+"#	"<R?c	!	8	17	outdata0	!	outdata0	")
+"$	"<R?c	!	8	17	outdata1	!	outdata1	"(
+"%	"<R?c	!	8	17	outdata2	!	outdata2	"'
+"&	"<R?c	!	8	17	outdata3	!	outdata3	"&
+"'	"<R?c	!	8	17	outdata4	!	outdata4	"%
+"(	"<R?b	!	7	17	s0	!	s0	"$
+")	"<R?b	!	7	17	s1	!	s1	"#

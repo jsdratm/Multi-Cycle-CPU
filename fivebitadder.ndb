@@ -1,0 +1,61 @@
+NDB006
+The number of symbol table entries is: 3
+The length of the symbol table is: 61
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|LPM_ADD_SUB:26|
+?	|LPM_ADD_SUB:26|addcore:adder|
+
+The number of name info structs is : 47
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	"<R?b	!	8	14	indata0	!	indata0	q
+#	"<R?b	!	8	14	indata1	!	indata1	p
+$	"<R?b	!	8	14	indata2	!	indata2	o
+%	"<R?b	!	8	14	indata3	!	indata3	n
+&	"<R?b	!	8	14	indata4	!	indata4	m
+'	"<R?c	!	9	17	outdata0	!	outdata0	v
+(	"<R?c	!	9	17	outdata1	!	outdata1	u
+)	"<R?c	!	9	17	outdata2	!	outdata2	t
+*	"<R?c	!	9	17	outdata3	!	outdata3	s
++	"<R?c	!	9	17	outdata4	!	outdata4	r
+,	IeEA	.	704	78	:115	#I
+-	IeEA	.	704	78	:116	#J
+.	IeEA	.	704	56	:117	#K
+/	IeEA	.	705	35	:118	#L
+0	IeEA	.	704	91	:119	#M
+1	IeEA	.	704	91	:120	#N
+2	IeEA	?	308	28	:52	#r
+3	IeEA	?	308	52	:53	#s
+4	IeEA	?	308	40	:54	#t
+5	IeEA	?	309	18	:55	#u
+6	IeEA	?	312	28	:57	#w
+7	IeEA	?	312	52	:58	#x
+8	IeEA	?	312	64	:59	#y
+9	IeEA	?	312	28	:61	#{
+:	IeEA	?	312	52	:62	#|
+;	IeEA	?	312	64	:63	#}
+<	IeEA	?	312	28	:65	$!
+=	IeEA	?	312	52	:66	$"
+>	IeEA	?	312	64	:67	$#
+?	IeEA	?	312	28	:69	$%
+@	IeEA	?	312	52	:70	$&
+A	IeEA	?	312	64	:71	$'
+B	IeEA	?	315	26	:73	$)
+C	IeEA	?	315	37	:74	$*
+D	IeEA	?	316	45	:75	$+
+E	IeEA	?	316	45	:76	$,
+F	IeEA	?	316	45	:77	$-
+G	IeEA	?	316	45	:78	$.
+H	IeEA	?	316	67	:79	$/
+I	IeEA	?	316	67	:80	$0
+J	IeEA	?	316	67	:81	$1
+K	IeEA	?	316	67	:82	$2
+L	IeEA	?	308	64	pcarry0	#v
+M	IeEA	?	312	40	pcarry1	#z
+N	IeEA	?	312	40	pcarry2	#~
+O	IeEA	?	312	40	pcarry3	$$
+P	IeEA	?	312	40	pcarry4	$(

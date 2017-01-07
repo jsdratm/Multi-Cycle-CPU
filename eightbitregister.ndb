@@ -1,0 +1,42 @@
+NDB006
+The number of symbol table entries is: 2
+The length of the symbol table is: 59
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|lpm_ram_dq:lpm_ram_dq_component|altram:sram|
+
+The number of name info structs is : 29
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	"<R?b	!	43	17	address0	!	address0	n
+#	"<R?b	!	43	17	address1	!	address1	m
+$	"<R?b	!	46	17	data0	!	data0	x
+%	"<R?b	!	46	17	data1	!	data1	w
+&	"<R?b	!	46	17	data2	!	data2	v
+'	"<R?b	!	46	17	data3	!	data3	u
+(	"<R?b	!	46	17	data4	!	data4	t
+)	"<R?b	!	46	17	data5	!	data5	s
+*	"<R?b	!	46	17	data6	!	data6	r
++	"<R?b	!	46	17	data7	!	data7	q
+,	IeEZ	!	44	17	inclock	o
+-	"<R?c	!	47	17	q0	!	q0	""
+.	"<R?c	!	47	17	q1	!	q1	"!
+/	"<R?c	!	47	17	q2	!	q2	~
+0	"<R?c	!	47	17	q3	!	q3	}
+1	"<R?c	!	47	17	q4	!	q4	|
+2	"<R?c	!	47	17	q5	!	q5	{
+3	"<R?c	!	47	17	q6	!	q6	z
+4	"<R?c	!	47	17	q7	!	q7	y
+5	IeEZ	!	45	17	we	p
+6	#/?91	.	89	4	content	0	#Y
+7	#/?91	.	98	12	segment0_0	0	#a
+8	#/?91	.	98	12	segment0_1	0	#`
+9	#/?91	.	98	12	segment0_2	0	#_
+:	#/?91	.	98	12	segment0_3	0	#^
+;	#/?91	.	98	12	segment0_4	0	#]
+<	#/?91	.	98	12	segment0_5	0	#\
+=	#/?91	.	98	12	segment0_6	0	#[
+>	#/?91	.	98	12	segment0_7	0	#Z

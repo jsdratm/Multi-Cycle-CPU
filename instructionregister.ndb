@@ -1,0 +1,114 @@
+NDB006
+The number of symbol table entries is: 2
+The length of the symbol table is: 59
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|lpm_ram_dq:lpm_ram_dq_component|altram:sram|
+
+The number of name info structs is : 101
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	"<R?b	!	43	17	address0	!	address0	n
+#	"<R?b	!	43	17	address1	!	address1	m
+$	"<R?b	!	46	17	data0	!	data0	"2
+%	"<R?b	!	46	17	data1	!	data1	"1
+&	"<R?b	!	46	17	data10	!	data10	"(
+'	"<R?b	!	46	17	data11	!	data11	"'
+(	"<R?b	!	46	17	data12	!	data12	"&
+)	"<R?b	!	46	17	data13	!	data13	"%
+*	"<R?b	!	46	17	data14	!	data14	"$
++	"<R?b	!	46	17	data15	!	data15	"#
+,	"<R?b	!	46	17	data16	!	data16	""
+-	"<R?b	!	46	17	data17	!	data17	"!
+.	"<R?b	!	46	17	data18	!	data18	~
+/	"<R?b	!	46	17	data19	!	data19	}
+0	"<R?b	!	46	17	data2	!	data2	"0
+1	"<R?b	!	46	17	data20	!	data20	|
+2	"<R?b	!	46	17	data21	!	data21	{
+3	"<R?b	!	46	17	data22	!	data22	z
+4	"<R?b	!	46	17	data23	!	data23	y
+5	"<R?b	!	46	17	data24	!	data24	x
+6	"<R?b	!	46	17	data25	!	data25	w
+7	"<R?b	!	46	17	data26	!	data26	v
+8	"<R?b	!	46	17	data27	!	data27	u
+9	"<R?b	!	46	17	data28	!	data28	t
+:	"<R?b	!	46	17	data29	!	data29	s
+;	"<R?b	!	46	17	data3	!	data3	"/
+<	"<R?b	!	46	17	data30	!	data30	r
+=	"<R?b	!	46	17	data31	!	data31	q
+>	"<R?b	!	46	17	data4	!	data4	".
+?	"<R?b	!	46	17	data5	!	data5	"-
+@	"<R?b	!	46	17	data6	!	data6	",
+A	"<R?b	!	46	17	data7	!	data7	"+
+B	"<R?b	!	46	17	data8	!	data8	"*
+C	"<R?b	!	46	17	data9	!	data9	")
+D	"<R?c	!	49	17	i1500	!	i1500	"R
+E	"<R?c	!	49	17	i1501	!	i1501	"Q
+F	"<R?c	!	49	17	i15010	!	i15010	"H
+G	"<R?c	!	49	17	i15011	!	i15011	"G
+H	"<R?c	!	49	17	i15012	!	i15012	"F
+I	"<R?c	!	49	17	i15013	!	i15013	"E
+J	"<R?c	!	49	17	i15014	!	i15014	"D
+K	"<R?c	!	49	17	i15015	!	i15015	"C
+L	"<R?c	!	49	17	i1502	!	i1502	"P
+M	"<R?c	!	49	17	i1503	!	i1503	"O
+N	"<R?c	!	49	17	i1504	!	i1504	"N
+O	"<R?c	!	49	17	i1505	!	i1505	"M
+P	"<R?c	!	49	17	i1506	!	i1506	"L
+Q	"<R?c	!	49	17	i1507	!	i1507	"K
+R	"<R?c	!	49	17	i1508	!	i1508	"J
+S	"<R?c	!	49	17	i1509	!	i1509	"I
+T	"<R?c	!	48	17	i20160	!	i20160	"B
+U	"<R?c	!	48	17	i20161	!	i20161	"A
+V	"<R?c	!	48	17	i20162	!	i20162	"@
+W	"<R?c	!	48	17	i20163	!	i20163	"?
+X	"<R?c	!	48	17	i20164	!	i20164	">
+Y	"<R?c	!	48	17	i25210	!	i25210	"=
+Z	"<R?c	!	48	17	i25211	!	i25211	"<
+[	"<R?c	!	48	17	i25212	!	i25212	";
+\	"<R?c	!	48	17	i25213	!	i25213	":
+]	"<R?c	!	48	17	i25214	!	i25214	"9
+^	"<R?c	!	47	17	i31260	!	i31260	"8
+_	"<R?c	!	47	17	i31261	!	i31261	"7
+`	"<R?c	!	47	17	i31262	!	i31262	"6
+a	"<R?c	!	47	17	i31263	!	i31263	"5
+b	"<R?c	!	47	17	i31264	!	i31264	"4
+c	"<R?c	!	47	17	i31265	!	i31265	"3
+d	IeEZ	!	44	17	inclock	o
+e	IeEZ	!	45	17	we	p
+f	#/?91	.	101	4	content	0	(]
+g	#/?91	.	111	12	segment0_0	0	(}
+h	#/?91	.	111	12	segment0_1	0	(|
+i	#/?91	.	111	12	segment0_10	0	(s
+j	#/?91	.	111	12	segment0_11	0	(r
+k	#/?91	.	111	12	segment0_12	0	(q
+l	#/?91	.	111	12	segment0_13	0	(p
+m	#/?91	.	111	12	segment0_14	0	(o
+n	#/?91	.	111	12	segment0_15	0	(n
+o	#/?91	.	111	12	segment0_16	0	(m
+p	#/?91	.	111	12	segment0_17	0	(l
+q	#/?91	.	111	12	segment0_18	0	(k
+r	#/?91	.	111	12	segment0_19	0	(j
+s	#/?91	.	111	12	segment0_2	0	({
+t	#/?91	.	111	12	segment0_20	0	(i
+u	#/?91	.	111	12	segment0_21	0	(h
+v	#/?91	.	111	12	segment0_22	0	(g
+w	#/?91	.	111	12	segment0_23	0	(f
+x	#/?91	.	111	12	segment0_24	0	(e
+y	#/?91	.	111	12	segment0_25	0	(d
+z	#/?91	.	111	12	segment0_26	0	(c
+{	#/?91	.	111	12	segment0_27	0	(b
+|	#/?91	.	111	12	segment0_28	0	(a
+}	#/?91	.	111	12	segment0_29	0	(`
+~	#/?91	.	111	12	segment0_3	0	(z
+"!	#/?91	.	111	12	segment0_30	0	(_
+""	#/?91	.	111	12	segment0_31	0	(^
+"#	#/?91	.	111	12	segment0_4	0	(y
+"$	#/?91	.	111	12	segment0_5	0	(x
+"%	#/?91	.	111	12	segment0_6	0	(w
+"&	#/?91	.	111	12	segment0_7	0	(v
+"'	#/?91	.	111	12	segment0_8	0	(u
+"(	#/?91	.	111	12	segment0_9	0	(t

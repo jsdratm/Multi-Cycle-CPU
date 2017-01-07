@@ -1,0 +1,60 @@
+NDB006
+The number of symbol table entries is: 1
+The length of the symbol table is: 13
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+
+The number of name info structs is : 48
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	It0+	!	H	20	9	:11	w
+#	It0+	!	G	20	9	:12	x
+$	It0+	!	F	20	9	:13	y
+%	It0+	!	E	20	9	:14	z
+&	IGdW	!	:50	"@
+'	IGdW	!	:51	"A
+(	IGdW	!	:52	"B
+)	IGdW	!	:53	"C
+*	IGdW	!	:54	"D
++	IGdW	!	:55	"E
+,	IGdW	!	:56	"F
+-	IGdW	!	:57	"G
+.	IGdW	!	:58	"H
+/	IGdW	!	:59	"I
+0	IGdW	!	:60	"J
+1	IGdW	!	:61	"K
+2	IGdW	!	:62	"L
+3	IGdW	!	:63	"M
+4	IGdW	!	:64	"N
+5	IGdW	!	:65	"O
+6	IGdW	!	:66	"P
+7	IGdW	!	:67	"Q
+8	IGdW	!	:68	"R
+9	IGdW	!	:69	"S
+:	IGdW	!	:70	"T
+;	IGdW	!	:71	"U
+<	IGdW	!	:72	"V
+=	IGdW	!	:73	"W
+>	IGdW	!	:74	"X
+?	IGdW	!	:75	"Y
+@	IGdW	!	:76	"Z
+A	IGdW	!	:77	"[
+B	IGdW	!	:78	"\
+C	IGdW	!	:79	"]
+D	IeEZ	!	12	9	clock	m
+E	"<;ou	!	%	mem0	!	mem0	z
+F	"<;ou	!	$	mem1	!	mem1	y
+G	"<;ou	!	#	mem2	!	mem2	x
+H	"<;ou	!	"	mem3	!	mem3	w
+I	"<R?c	!	15	9	outdata0	!	outdata0	v
+J	"<R?c	!	15	9	outdata1	!	outdata1	u
+K	"<R?c	!	15	9	outdata2	!	outdata2	t
+L	"<R?c	!	15	9	outdata3	!	outdata3	s
+M	IeEZ	!	13	9	pcwrite	n
+N	"<R?b	!	14	9	writedata0	!	writedata0	r
+O	"<R?b	!	14	9	writedata1	!	writedata1	q
+P	"<R?b	!	14	9	writedata2	!	writedata2	p
+Q	"<R?b	!	14	9	writedata3	!	writedata3	o
